@@ -59,6 +59,15 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 
 ## Drafting Contracts ⚖️
 
+### AI Lawyer
+
+- **URL:** https://ailawyer.pro/
+- **Reviews URL:** [AI Lawyer - Product Information, Latest Updates, and Reviews 2023 | Product Hunt](https://www.producthunt.com/products/ai-lawyer)
+- **Platform:** Web app
+- **Use Case:** Drafting Contracts
+- **Tags:** legal assistant, legal research, contract drafting
+- **Description:** AI Lawyer is a ChatGPT-powered legal assistant designed for swift legal research and advanced document functions such as summaries, comparisons, and contract drafting.
+
 ## Content Generation 📝
 
 ## Education and Tutoring 🎓
