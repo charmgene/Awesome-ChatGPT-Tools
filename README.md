@@ -4,10 +4,10 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 
 ## Table of Contents
 
-- [Writing Emails](##writing-emails)
+- [Writing Emails](#writing-emails-)
 - [Prompt templates](#prompt-templates)
 - [Customer Support](#customer-support)
-- [Drafting Contracts](#drafting-contracts)
+- [Drafting Contracts](#drafting-contracts-%EF%B8%8F)
 - [Content Generation](#content-generation)
 - [Education and Tutoring](#education-and-tutoring)
 - [Social Media Management](#social-media-management)
