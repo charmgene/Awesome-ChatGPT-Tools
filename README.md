@@ -70,6 +70,15 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 
 ## Content Generation 📝
 
+### Chat by Copy.ai
+
+- **URL:** https://www.copy.ai/chat
+- **Reviews URL:** [Chat by Copy.ai - A smarter ChatGPT to help you get more done | Product Hunt](https://www.producthunt.com/posts/chat-by-copy-ai)
+- **Platform:** Web app
+- **Use Case:** Drafting Contracts
+- **Tags:** generate content, draft email, summarize YouTube videos
+- **Description:** Chat by Copy.ai is the smarter ChatGPT that helps you get more done. Scrape websites for public data, generate personalized copy, summarize YouTube videos into key bullet points, and so much more with the next generation of AI chat.
+
 ## Education and Tutoring 🎓
 
 ## Social Media Management 🌐
