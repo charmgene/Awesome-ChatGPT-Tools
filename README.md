@@ -48,6 +48,15 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 
 ## Customer Support 📞
 
+Fin by Intercom
+
+- **URL:** https://www.intercom.com/ai-bot
+- **Reviews URL:** [Fin by Intercom - An AI bot powered by GPT-4 and built for customer service | Product Hunt](https://www.producthunt.com/posts/fin-by-intercom)
+- **Platform:** Web app
+- **Use Case:** Customer Support
+- **Tags:** customer support, chat bot, customer service, GPT4
+- **Description:** Say hi to Fin: a breakthrough AI bot that accurately and immediately answers customer questions, reducing support volume and resolution times. Holds complete support conversations in plain English, powered by the latest GPT-4 and Intercom’s proprietary ML technology. AI model. Zero setup required. Just point it at your help center and turn it on. Provides trustworthy, accurate answers based on your existing support content. Seamlessly passes more complex questions directly to your human support team.
+
 ## Drafting Contracts ⚖️
 
 ## Content Generation 📝
