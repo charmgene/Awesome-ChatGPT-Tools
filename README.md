@@ -4,7 +4,8 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 
 ## Table of Contents
 
-- [Writing Emails](#writing-emails)
+- [Writing Emails](##writing-emails)
+- [Prompt templates](#prompt-templates)
 - [Customer Support](#customer-support)
 - [Drafting Contracts](#drafting-contracts)
 - [Content Generation](#content-generation)
@@ -46,6 +47,10 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 - **Use Case:** Writing Emails
 - **Tags:** Email writing, productivity, Linkedin
 - **Description:** ChatGPT-Powered Email Finding & Outreach at Scale. Extract valid email addresses from LinkedIn & craft tailored emails based on LinkedIn profile with ChatGPT, guaranteeing up to 98% email deliverability. Scale your outreach efforts and connect with potential customers or clients like never before.
+
+## Prompt templates 💡
+
+
 
 ## Customer Support 📞
 
