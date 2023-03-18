@@ -40,6 +40,7 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 ### FinalScout
 
 - **URL:** https://finalscout.com
+- **Twitter:** https://twitter.com/finalscout_com
 - **Reviews URL:** [FinalScout - Automate outreach emails to LinkedIn prospects using ChatGPT | Product Hunt](https://www.producthunt.com/posts/finalscout-2)
 - **Platform:** Web app, Chrome extension
 - **Use Case:** Writing Emails
@@ -51,6 +52,7 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 ### Fin by Intercom
 
 - **URL:** https://www.intercom.com/ai-bot
+- **Twitter:** https://twitter.com/intercom
 - **Reviews URL:** [Fin by Intercom - An AI bot powered by GPT-4 and built for customer service | Product Hunt](https://www.producthunt.com/posts/fin-by-intercom)
 - **Platform:** Web app
 - **Use Case:** Customer Support
@@ -62,6 +64,7 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 ### AI Lawyer
 
 - **URL:** https://ailawyer.pro/
+- **Twitter:** https://twitter.com/ailawyerapp
 - **Reviews URL:** [AI Lawyer - Product Information, Latest Updates, and Reviews 2023 | Product Hunt](https://www.producthunt.com/products/ai-lawyer)
 - **Platform:** Web app
 - **Use Case:** Drafting Contracts
@@ -73,6 +76,7 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 ### Chat by Copy.ai
 
 - **URL:** https://www.copy.ai/chat
+- **Twitter:** https://twitter.com/copy_ai
 - **Reviews URL:** [Chat by Copy.ai - A smarter ChatGPT to help you get more done | Product Hunt](https://www.producthunt.com/posts/chat-by-copy-ai)
 - **Platform:** Web app
 - **Use Case:** Drafting Contracts
