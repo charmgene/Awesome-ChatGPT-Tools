@@ -48,7 +48,7 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 
 ## Customer Support 📞
 
-Fin by Intercom
+### Fin by Intercom
 
 - **URL:** https://www.intercom.com/ai-bot
 - **Reviews URL:** [Fin by Intercom - An AI bot powered by GPT-4 and built for customer service | Product Hunt](https://www.producthunt.com/posts/fin-by-intercom)
