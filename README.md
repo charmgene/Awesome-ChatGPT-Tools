@@ -88,6 +88,14 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 - **Tags:** generate content, draft email, summarize YouTube videos
 - **Description:** Chat by Copy.ai is the smarter ChatGPT that helps you get more done. Scrape websites for public data, generate personalized copy, summarize YouTube videos into key bullet points, and so much more with the next generation of AI chat.
 
+### CreatorSkills
+
+- **URL:** https://creatorskills.co
+- **Platform:** Web app
+- **Use Case:** Content Generation
+- **Tags:** AI skills, content creators, YouTube scripting, sponsor analysis, audience growth, Claude, ChatGPT
+- **Description:** Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
+
 ## Education and Tutoring 🎓
 
 ## Social Media Management 🌐
