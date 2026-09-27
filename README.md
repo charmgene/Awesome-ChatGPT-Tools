@@ -137,6 +137,13 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 ## Design and Creativity 🎨
 
 ## Software Development 💾
+### APIClaw
+
+- **URL:** https://apiclaw.biz
+- **Platform:** Web API
+- **Use Case:** Software Development
+- **Description:** Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM models, with plans from $19/month and a 50-request free trial.
+      
 
 ## Contribute 🤝
 
